@@ -1,2 +1,2 @@
 # tabem
-mini peridic table of elements
+mini periodic table of elements
